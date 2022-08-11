@@ -1,0 +1,16 @@
+#JetBrains IDE
+.idea/
+
+*.d.ts
+
+node_modules/
+.env
+documents/
+server/
+.serverless/
+.webpack/
+**/build/
+__snapshots__/
+PDFs/
+_warmup/
+.node-version
